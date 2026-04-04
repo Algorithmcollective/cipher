@@ -160,6 +160,6 @@ Ready to move forward? Connect on LinkedIn and send a message.
 
 **linkedin.com/in/algorithmcollective**
 
-**ben@algorithmcollective.com**
+**ben@algorithimcollective.com**
 
 © 2026 Algorithm Collective LLC · Pittsburgh, PA
